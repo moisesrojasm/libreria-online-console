@@ -1,2 +1,2 @@
 # libreria-online-console
-Sistema de librería online en consola con carrito de compras y gestión de libros.
+Proyecto para la materia de Sistemas de Información: Sistema de librería online en consola con carrito de compras y gestión de libros.
