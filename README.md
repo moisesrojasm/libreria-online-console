@@ -1,7 +1,7 @@
 # libreria-online-console
 Sistema de librería online en consola con carrito de compras y gestión de libros.
 
-´´´´plain text
+```plaintext
 
 libreria_online/
 │
@@ -22,4 +22,4 @@ libreria_online/
     └── json_utils.py              # Cargar/guardar JSON de forma genérica
 
 
-´´´
+```
