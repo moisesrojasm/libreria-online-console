@@ -1,14 +1,6 @@
-from servicios.servicio_autenticacion import iniciar_sesion, registrar_usuario
+from servicios.servicio_autenticacion import iniciar_sesion, registrar_usuario, administrar_usuarios, editar_mis_datos
 from servicios.servicio_carrito import crear_carrito, agregar_al_carrito, quitar_del_carrito, mostrar_carrito
-from servicios.servicio_libros import (
-    mostrar_catalogo,
-    agregar_libro,
-    editar_libro,
-    eliminar_libro,
-    buscar_libros,
-    filtrar_por_categoria,
-    obtener_libros,
-)
+from servicios.servicio_libros import mostrar_catalogo, agregar_libro, editar_libro, eliminar_libro, buscar_libros, filtrar_por_categoria, obtener_libros
 from servicios.servicio_pedidos import generar_pedido, mostrar_pedidos, mostrar_pedidos_usuario
 
 def menu_principal():
@@ -45,7 +37,9 @@ def menu_administrador(usuario):
         print("5. Buscar libros")
         print("6. Filtrar por categoría")
         print("7. Ver historial de pedidos")
-        print("8. Cerrar sesión")
+        print("8. Ver / modificar usuarios")
+        print("9. Editar mis datos")
+        print("10. Cerrar sesión")
 
         opcion = input("Seleccione una opción: ")
 
@@ -66,7 +60,6 @@ def menu_administrador(usuario):
         elif opcion == "8":
             administrar_usuarios()
         elif opcion == "9":
-            # Actualizamos el diccionario usuario por si cambió correo/nombre/etc.
             usuario = editar_mis_datos(usuario)
         elif opcion == "10":
             break
@@ -86,7 +79,8 @@ def menu_cliente(usuario):
         print("6. Quitar del carrito")
         print("7. Confirmar pedido")
         print("8. Ver mis pedidos")
-        print("9. Cerrar sesión")
+        print("9. Editar mis datos")
+        print("10. Cerrar sesión")
 
         opcion = input("Seleccione una opción: ")
 
@@ -109,9 +103,11 @@ def menu_cliente(usuario):
         elif opcion == "8":
             mostrar_pedidos_usuario(usuario["id"])
         elif opcion == "9":
+            usuario = editar_mis_datos(usuario)
+        elif opcion == "10":
             break
         else:
-            print("Opción no válida.")
+            print("No es una opción válida.")
 
 if __name__ == "__main__":
     menu_principal()
