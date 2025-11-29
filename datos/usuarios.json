@@ -5,7 +5,30 @@
         "correo": "dm.rojasmata@ugto.mx",
         "password": "123456",
         "direccion": "Calle X 123",
-        "es_admin": true,
-        "creado_en": "2025-11-28T10:30:00"
+        "es_admin": true
+    },
+    {
+        "id": 2,
+        "nombre": "Quimey Yañez",
+        "correo": "cq.azuarayanez@ugto.mx",
+        "password": "bts123",
+        "direccion": "Calle X 123",
+        "es_admin": false
+    },
+    {
+        "id": 3,
+        "nombre": "Pablo Briones",
+        "correo": "jp.garciabriones@ugto.mx",
+        "password": "Elpp67",
+        "direccion": "Calle X 123",
+        "es_admin": false
+    },
+    {
+        "id": 4,
+        "nombre": "Giovanni Villafaña",
+        "correo": "g.villafanavallejo@ugto.mx",
+        "password": "genji1",
+        "direccion": "Calle X 123",
+        "es_admin": false
     }
 ]

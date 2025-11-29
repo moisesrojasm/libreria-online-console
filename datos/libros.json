@@ -6,5 +6,342 @@
         "categoria": "Ficción",
         "precio": 250.0,
         "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "categoria": "Ficción",
+        "precio": 150.0,
+        "stock": 4
+    },
+    {
+        "id": 3,
+        "titulo": "La Ecuación de Dios",
+        "autor": "Michio Kaku",
+        "categoria": "Ciencia",
+        "precio": 400.0,
+        "stock": 7
+    },
+    {
+        "id": 4,
+        "titulo": "Un Mundo Inmenso",
+        "autor": "Diego Agustín Briano",
+        "categoria": "Geografía",
+        "precio": 500.0,
+        "stock": 7
+    },
+    {
+        "id": 5,
+        "titulo": "Cien Años de Soledad",
+        "autor": "Gabriel García Márquez",
+        "categoria": "Novela",
+        "precio": 298.0,
+        "stock": 12
+    },
+    {
+        "id": 6,
+        "titulo": "Harry Potter y la Piedra Filosofal",
+        "autor": "J. K. Rowling",
+        "categoria": "Fantasía",
+        "precio": 559.0,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "categoria": "Ficción",
+        "precio": 400.0,
+        "stock": 18
+    },
+    {
+        "id": 8,
+        "titulo": "La Biblioteca de la Medianoche",
+        "autor": "Matt Haig",
+        "categoria": "Ficción",
+        "precio": 379.0,
+        "stock": 6
+    },
+    {
+        "id": 9,
+        "titulo": "La Sombra del Viento",
+        "autor": "Carlos Ruiz Zafón",
+        "categoria": "Novela",
+        "precio": 339.0,
+        "stock": 8
+    },
+    {
+        "id": 10,
+        "titulo": "La Llamada de lo Salvaje",
+        "autor": "Jack London",
+        "categoria": "Fantasía",
+        "precio": 369.0,
+        "stock": 12
+    },
+    {
+        "id": 11,
+        "titulo": "El Círculo de los Días",
+        "autor": "Ken Follett",
+        "categoria": "Drama",
+        "precio": 460.0,
+        "stock": 5
+    },
+    {
+        "id": 12,
+        "titulo": "El Susurro del Fuego",
+        "autor": "Javier Castillo",
+        "categoria": "Suspenso",
+        "precio": 450.0,
+        "stock": 9
+    },
+    {
+        "id": 13,
+        "titulo": "Orgullo y Prejuicio",
+        "autor": "Jane Austen",
+        "categoria": "Romance",
+        "precio": 288.0,
+        "stock": 23
+    },
+    {
+        "id": 14,
+        "titulo": "Destroza este Diario",
+        "autor": "Keri Smith",
+        "categoria": "Creatividad",
+        "precio": 299.0,
+        "stock": 17
+    },
+    {
+        "id": 15,
+        "titulo": "Una Breve Historia de Casi Todo",
+        "autor": "Bill Brysin",
+        "categoria": "Divulgación científica",
+        "precio": 569.0,
+        "stock": 3
+    },
+    {
+        "id": 16,
+        "titulo": "Los Dragones del Edén",
+        "autor": "Carl Sagan",
+        "categoria": "Divulgación científica",
+        "precio": 680.0,
+        "stock": 20
+    },
+    {
+        "id": 17,
+        "titulo": "El Gran Diseño",
+        "autor": "Stephen Hawking & Leonard Mlodinow",
+        "categoria": "Divulgación científica",
+        "precio": 600.0,
+        "stock": 32
+    },
+    {
+        "id": 18,
+        "titulo": "Las Crónicas de Narnia",
+        "autor": "C. S. Lewis",
+        "categoria": "Fantasía",
+        "precio": 630.0,
+        "stock": 42
+    },
+    {
+        "id": 19,
+        "titulo": "La Escuela del Bien y del Mal",
+        "autor": "Soman Chainani",
+        "categoria": "Fantasía",
+        "precio": 630.0,
+        "stock": 7
+    },
+    {
+        "id": 20,
+        "titulo": "Beyond The Story: 10-Year Record of Bts",
+        "autor": "BTS",
+        "categoria": "Biografía",
+        "precio": 499.0,
+        "stock": 7
+    },
+    {
+        "id": 21,
+        "titulo": "Padre Rico, Padre Pobre",
+        "autor": "Robert Kiyosaki",
+        "categoria": "Finanzas",
+        "precio": 329.0,
+        "stock": 45
+    },
+    {
+        "id": 22,
+        "titulo": "Gravity Falls: Diario 3",
+        "autor": "Alex Hirsch",
+        "categoria": "Fantasía",
+        "precio": 398.0,
+        "stock": 83
+    },
+    {
+        "id": 23,
+        "titulo": "Harry Potter y la Orden del Fénix",
+        "autor": "J. K. Rowling",
+        "categoria": "Fantasía",
+        "precio": 529.0,
+        "stock": 8
+    },
+    {
+        "id": 24,
+        "titulo": "Animales Fantásticos y Dónde Encontrarlos",
+        "autor": "J. K. Rowling",
+        "categoria": "Fantasía",
+        "precio": 459.0,
+        "stock": 16
+    },
+    {
+        "id": 25,
+        "titulo": "Una Vida Mágica",
+        "autor": "Diana Wynne Jones",
+        "categoria": "Fantasía",
+        "precio": 312.0,
+        "stock": 13
+    },
+    {
+        "id": 26,
+        "titulo": "La Historia Interminable",
+        "autor": "Michael Ende",
+        "categoria": "Fantasía",
+        "precio": 469.0,
+        "stock": 30
+    },
+    {
+        "id": 27,
+        "titulo": "Corazón de Tinta",
+        "autor": "Cornelia Funke",
+        "categoria": "Fantasía",
+        "precio": 429.0,
+        "stock": 2
+    },
+    {
+        "id": 28,
+        "titulo": "Jim Botón y Lucas el Maquinista",
+        "autor": "Michael Ende",
+        "categoria": "Fantasía",
+        "precio": 350.0,
+        "stock": 15
+    },
+    {
+        "id": 29,
+        "titulo": "La Biblia",
+        "autor": "Desconocido",
+        "categoria": "Religión",
+        "precio": 699.0,
+        "stock": 125
+    },
+    {
+        "id": 30,
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Novela",
+        "precio": 187.0,
+        "stock": 126
+    },
+    {
+        "id": 31,
+        "titulo": "Crónicas Marcianas",
+        "autor": "Ray Bradbury",
+        "categoria": "Ciencia ficción",
+        "precio": 189.0,
+        "stock": 18
+    },
+    {
+        "id": 32,
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "categoria": "Novela",
+        "precio": 299.0,
+        "stock": 22
+    },
+    {
+        "id": 33,
+        "titulo": "El Gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "categoria": "Novela",
+        "precio": 119.0,
+        "stock": 77
+    },
+    {
+        "id": 34,
+        "titulo": "La Guerra y la Paz",
+        "autor": "León Tolstói",
+        "categoria": "Novela",
+        "precio": 584.0,
+        "stock": 29
+    },
+    {
+        "id": 35,
+        "titulo": "Wigetta",
+        "autor": "Samuel de Luque & Guillermo Díaz",
+        "categoria": "Fantasía",
+        "precio": 247.0,
+        "stock": 777
+    },
+    {
+        "id": 36,
+        "titulo": "Universo Wigetta 1: En el infierno",
+        "autor": "Samuel de Luque & Guillermo Díaz",
+        "categoria": "Fantasía",
+        "precio": 254.0,
+        "stock": 777
+    },
+    {
+        "id": 37,
+        "titulo": "Wigetta: En las Dinolimpiadas",
+        "autor": "Samuel de Luque & Guillermo Díaz",
+        "categoria": "Fantasía",
+        "precio": 129.0,
+        "stock": 777
+    },
+    {
+        "id": 38,
+        "titulo": "Wigetta y el Tesoro de Chocatuspalmas",
+        "autor": "Samuel de Luque & Guillermo Díaz",
+        "categoria": "Fantasía",
+        "precio": 442.0,
+        "stock": 777
+    },
+    {
+        "id": 39,
+        "titulo": "Wigetta y el Cuento Jamás Contado",
+        "autor": "Samuel de Luque & Guillermo Díaz",
+        "categoria": "Fantasía",
+        "precio": 479.0,
+        "stock": 777
+    },
+    {
+        "id": 40,
+        "titulo": "Tres Promesas",
+        "autor": "Leslie Polinesia",
+        "categoria": "Romance",
+        "precio": 356.0,
+        "stock": 54
+    },
+    {
+        "id": 41,
+        "titulo": "Finalmente Soy Yo",
+        "autor": "Leslie Polinesia",
+        "categoria": "Romance",
+        "precio": 266.0,
+        "stock": 63
+    },
+    {
+        "id": 42,
+        "titulo": "El Libro Polinesio",
+        "autor": "Leslie, Rafa y Karen Polinesios",
+        "categoria": "Biografía",
+        "precio": 299.0,
+        "stock": 67
+    },
+    {
+        "id": 43,
+        "titulo": "Coraline",
+        "autor": "Neil Gaiman",
+        "categoria": "Fantasía",
+        "precio": 209.0,
+        "stock": 6,
+        "activo": true
     }
 ]
