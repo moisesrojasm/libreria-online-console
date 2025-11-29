@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "usuario_id": 1,
+        "items": [
+            {
+                "libro_id": 1,
+                "cantidad": 2,
+                "precio_unidad": 250.0
+            }
+        ],
+        "total": 500.0,
+        "fecha": "2025-11-28T11:00:00"
+    }
+]

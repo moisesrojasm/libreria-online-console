@@ -5,21 +5,19 @@ Sistema de librería online en consola con carrito de compras y gestión de libr
 
 libreria_online/
 │
-├── main.py          # Punto de entrada: muestra menús y orquesta todo
+├── main.py          
 │
-├── datos/                          # Archivos JSON persistentes
+├── datos/                          
 │   ├── libros.json
 │   ├── usuarios.json
-│   └── pedidos.json               # Opcional pero muy elegante
+│   └── pedidos.json               
 │
-├── funciones/                     # Lógica de negocio (no interfaz)
-│   ├── auth_service.py            # Registro / login / gestión de usuarios
-│   ├── book_service.py            # Gestión de libros (CRUD + búsquedas)
-│   ├── cart_service.py            # Manejo del carrito en memoria
-│   └── order_service.py           # Finalizar compra y registrar pedidos
+├── servicios/                     
+│   ├── servicio_autenticacion.py            
+│   ├── servicio_libros.py            
+│   ├── servicio_carrito.py           
+│   └── servicio_pedido.py           
 │
-└── utils/
-    └── json_utils.py              # Cargar/guardar JSON de forma genérica
-
-
+└── utilidades/
+    └── utilidades_json.py              
 ```

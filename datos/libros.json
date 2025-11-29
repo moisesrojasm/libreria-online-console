@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "categoria": "Ficción",
+        "precio": 250.0,
+        "stock": 10
+    }
+]

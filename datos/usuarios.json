@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre": "Moisés Rojas",
+        "correo": "dm.rojasmata@ugto.mx",
+        "password": "123456",
+        "direccion": "Calle X 123",
+        "es_admin": true,
+        "creado_en": "2025-11-28T10:30:00"
+    }
+]
