@@ -341,7 +341,462 @@
         "autor": "Neil Gaiman",
         "categoria": "Fantasía",
         "precio": 209.0,
-        "stock": 6,
-        "activo": true
+        "stock": 6
+    },
+    {
+        "id": 44,
+        "titulo": "Los Secretos de Youtube",
+        "autor": "The Grefg",
+        "categoria": "Emprendimiento digital",
+        "precio": 270.0,
+        "stock": 11
+    },
+    {
+        "id": 45,
+        "titulo": "El Libro Troll",
+        "autor": "ElRubiusOMG",
+        "categoria": "Entretenimiento",
+        "precio": 210.0,
+        "stock": 1
+    },
+    {
+        "id": 46,
+        "titulo": "Hábitos Atómicos",
+        "autor": "James Clear",
+        "categoria": "Psicología",
+        "precio": 310.0,
+        "stock": 67
+    },
+    {
+        "id": 47,
+        "titulo": "La Divina Comedia",
+        "autor": "Dante Alighieri",
+        "categoria": "Novela",
+        "precio": 225.0,
+        "stock": 66
+    },
+    {
+        "id": 48,
+        "titulo": "La Metamorfosis",
+        "autor": "Franz Kafka",
+        "categoria": "Ficción",
+        "precio": 160.0,
+        "stock": 69
+    },
+    {
+        "id": 49,
+        "titulo": "Las 48 Leyes del Poder",
+        "autor": "Robert Greene",
+        "categoria": "Psicología",
+        "precio": 400.0,
+        "stock": 17
+    },
+    {
+        "id": 50,
+        "titulo": "El Arte de la Guerra",
+        "autor": "Sun Tzu",
+        "categoria": "Estrategia",
+        "precio": 185.0,
+        "stock": 1
+    },
+    {
+        "id": 51,
+        "titulo": "La Naranja Mecánica",
+        "autor": "Anthony Burgess",
+        "categoria": "Ficción",
+        "precio": 240.0,
+        "stock": 10
+    },
+    {
+        "id": 52,
+        "titulo": "Siddhartha",
+        "autor": "Hermann Hesse",
+        "categoria": "Filosofía",
+        "precio": 200.0,
+        "stock": 24
+    },
+    {
+        "id": 53,
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "categoria": "Ficción",
+        "precio": 200.0,
+        "stock": 3
+    },
+    {
+        "id": 54,
+        "titulo": "El Curioso Caso de Benjamin Button y Otros Relatos",
+        "autor": "F. Scott Fitzgerald",
+        "categoria": "Ficción",
+        "precio": 160.0,
+        "stock": 55
+    },
+    {
+        "id": 55,
+        "titulo": "La Sombra sobre Innsmouth",
+        "autor": "H.P. Lovecraft",
+        "categoria": "Terror",
+        "precio": 190.0,
+        "stock": 66
+    },
+    {
+        "id": 56,
+        "titulo": "La Llamada de Cthulhu",
+        "autor": "H.P. Lovecraft",
+        "categoria": "Terror",
+        "precio": 170.0,
+        "stock": 76
+    },
+    {
+        "id": 57,
+        "titulo": "IT",
+        "autor": "Stephen King",
+        "categoria": "Terror",
+        "precio": 425.0,
+        "stock": 40
+    },
+    {
+        "id": 58,
+        "titulo": "No Tengo Boca y Debo Gritar",
+        "autor": "Harlan Ellison",
+        "categoria": "Ciencia ficción",
+        "precio": 120.0,
+        "stock": 0
+    },
+    {
+        "id": 59,
+        "titulo": "El Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "categoria": "Fantasía",
+        "precio": 280.0,
+        "stock": 30
+    },
+    {
+        "id": 60,
+        "titulo": "El Señor de los Anillos 1: La Comunidad del Anillo",
+        "autor": "J.R.R. Tolkien",
+        "categoria": "Fantasía",
+        "precio": 300.0,
+        "stock": 33
+    },
+    {
+        "id": 61,
+        "titulo": "El Señor de los Anillos 2: Las Dos Torres",
+        "autor": "J.R.R. Tolkien",
+        "categoria": "Fantasía",
+        "precio": 320.0,
+        "stock": 36
+    },
+    {
+        "id": 62,
+        "titulo": "El Señor de los Anillos 3: El Retorno del Rey",
+        "autor": "J.R.R. Tolkien",
+        "categoria": "Fantasía",
+        "precio": 330.0,
+        "stock": 37
+    },
+    {
+        "id": 63,
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "categoria": "Novela",
+        "precio": 210.0,
+        "stock": 7
+    },
+    {
+        "id": 64,
+        "titulo": "Viaje al Centro de la Tierra",
+        "autor": "Julio Verne",
+        "categoria": "Ciencia ficción",
+        "precio": 240.0,
+        "stock": 11
+    },
+    {
+        "id": 65,
+        "titulo": "Carrie",
+        "autor": "Stephen King",
+        "categoria": "Terror",
+        "precio": 250.0,
+        "stock": 20
+    },
+    {
+        "id": 66,
+        "titulo": "El Resplandor",
+        "autor": "Stephen King",
+        "categoria": "Terror",
+        "precio": 310.0,
+        "stock": 66
+    },
+    {
+        "id": 67,
+        "titulo": "Manifiesto Comunista",
+        "autor": "Karl Marx",
+        "categoria": "Política",
+        "precio": 120.0,
+        "stock": 5
+    },
+    {
+        "id": 68,
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "categoria": "Novela",
+        "precio": 170.0,
+        "stock": 14
+    },
+    {
+        "id": 69,
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "categoria": "Ficción",
+        "precio": 270.0,
+        "stock": 8
+    },
+    {
+        "id": 70,
+        "titulo": "De la Tierra a la Luna",
+        "autor": "Julio Verne",
+        "categoria": "Ciencia ficción",
+        "precio": 150.0,
+        "stock": 19
+    },
+    {
+        "id": 71,
+        "titulo": "Aura",
+        "autor": "Carlos Fuentes",
+        "categoria": "Novela",
+        "precio": 190.0,
+        "stock": 4
+    },
+    {
+        "id": 72,
+        "titulo": "Los Tres Mosqueteros",
+        "autor": "Alexandre Dumas",
+        "categoria": "Novela",
+        "precio": 220.0,
+        "stock": 48
+    },
+    {
+        "id": 73,
+        "titulo": "Meridiano de Sangre",
+        "autor": "Cormac McCarthy",
+        "categoria": "Ficción",
+        "precio": 260.0,
+        "stock": 15
+    },
+    {
+        "id": 74,
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "categoria": "Novela",
+        "precio": 230.0,
+        "stock": 23
+    },
+    {
+        "id": 75,
+        "titulo": "El Diario de Ana Frank",
+        "autor": "Ana Frank",
+        "categoria": "Biografía",
+        "precio": 170.0,
+        "stock": 8
+    },
+    {
+        "id": 76,
+        "titulo": "Alicia en el País de las Maravillas",
+        "autor": "Lewis Carroll",
+        "categoria": "Fantasía",
+        "precio": 120.0,
+        "stock": 20
+    },
+    {
+        "id": 77,
+        "titulo": "Las Aventuras de Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "categoria": "Misterio",
+        "precio": 160.0,
+        "stock": 30
+    },
+    {
+        "id": 78,
+        "titulo": "La Rata con Thinner",
+        "autor": "Omar Ramírez Ramírez",
+        "categoria": "Novela",
+        "precio": 350.0,
+        "stock": 96
+    },
+    {
+        "id": 79,
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "categoria": "Ciencia ficción",
+        "precio": 150.0,
+        "stock": 45
+    },
+    {
+        "id": 80,
+        "titulo": "Cosmos",
+        "autor": "Carl Sagan",
+        "categoria": "Divulgación científica",
+        "precio": 260.0,
+        "stock": 3
+    },
+    {
+        "id": 81,
+        "titulo": "La Teoría del Todo",
+        "autor": "Stephen Hawking",
+        "categoria": "Divulgación científica",
+        "precio": 240.0,
+        "stock": 44
+    },
+    {
+        "id": 82,
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "categoria": "Filosofía",
+        "precio": 180.0,
+        "stock": 30
+    },
+    {
+        "id": 83,
+        "titulo": "El viejo y el mar",
+        "autor": "Ernest Hemingway",
+        "categoria": "Novela",
+        "precio": 160.0,
+        "stock": 15
+    },
+    {
+        "id": 84,
+        "titulo": "Adiós a las Armas",
+        "autor": "Ernest Hemingway",
+        "categoria": "Novela",
+        "precio": 290.0,
+        "stock": 9
+    },
+    {
+        "id": 85,
+        "titulo": "La Última Pregunta",
+        "autor": "Issac Asimov",
+        "categoria": "Ciencia ficción",
+        "precio": 80.0,
+        "stock": 60
+    },
+    {
+        "id": 86,
+        "titulo": "La Máscara de la Muerte Roja",
+        "autor": "Edgar Allan Poe",
+        "categoria": "Terror",
+        "precio": 130.0,
+        "stock": 50
+    },
+    {
+        "id": 87,
+        "titulo": "Pedro Páramo",
+        "autor": "Juan Rulfo",
+        "categoria": "Novela",
+        "precio": 160.0,
+        "stock": 4
+    },
+    {
+        "id": 88,
+        "titulo": "El Idiota",
+        "autor": "Fiódor Dostoyevski",
+        "categoria": "Novela",
+        "precio": 180.0,
+        "stock": 17
+    },
+    {
+        "id": 89,
+        "titulo": "El Lobo Estepario",
+        "autor": "Hermann Hesse",
+        "categoria": "Novela",
+        "precio": 200.0,
+        "stock": 56
+    },
+    {
+        "id": 90,
+        "titulo": "Los Hermanos Karamázov",
+        "autor": "Fiódor Dostoyevski",
+        "categoria": "Novela",
+        "precio": 390.0,
+        "stock": 12
+    },
+    {
+        "id": 91,
+        "titulo": "El Retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "categoria": "Ficción",
+        "precio": 190.0,
+        "stock": 6
+    },
+    {
+        "id": 92,
+        "titulo": "American Psycho",
+        "autor": "Bret Easton Ellis",
+        "categoria": "Thriller psicológico",
+        "precio": 240.0,
+        "stock": 16
+    },
+    {
+        "id": 93,
+        "titulo": "El Código Da Vinci",
+        "autor": "Dan Brown",
+        "categoria": "Thriller",
+        "precio": 110.0,
+        "stock": 29
+    },
+    {
+        "id": 94,
+        "titulo": "Los Miserables",
+        "autor": "Victor Hugo",
+        "categoria": "Novela",
+        "precio": 410.0,
+        "stock": 38
+    },
+    {
+        "id": 95,
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "categoria": "Novela",
+        "precio": 120.0,
+        "stock": 20
+    },
+    {
+        "id": 96,
+        "titulo": "Invisible Cities",
+        "autor": "Italo Calvino",
+        "categoria": "Ficción",
+        "precio": 180.0,
+        "stock": 41
+    },
+    {
+        "id": 97,
+        "titulo": "No Longer Human",
+        "autor": "Osamu Dazai",
+        "categoria": "Ficción",
+        "precio": 170.0,
+        "stock": 24
+    },
+    {
+        "id": 98,
+        "titulo": "2666",
+        "autor": "Roberto Bolaño",
+        "categoria": "Ficción",
+        "precio": 460.0,
+        "stock": 18
+    },
+    {
+        "id": 99,
+        "titulo": "El Guardian entre el Centeno",
+        "autor": "J. D.Salinger",
+        "categoria": "Ficción",
+        "precio": 190.0,
+        "stock": 9
+    },
+    {
+        "id": 100,
+        "titulo": "El Corazón de las Tinieblas",
+        "autor": "Joseph Conrad",
+        "categoria": "Novela",
+        "precio": 150.0,
+        "stock": 30
     }
 ]
