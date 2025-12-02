@@ -30,5 +30,21 @@
         "password": "genji1",
         "direccion": "Calle X 123",
         "es_admin": false
+    },
+    {
+        "id": 5,
+        "nombre": "Pablo León",
+        "correo": "jp.leonamaya@ugto.mx",
+        "password": "123789",
+        "direccion": "Calle X 123",
+        "es_admin": false
+    },
+    {
+        "id": 6,
+        "nombre": "Usuario de Prueba",
+        "correo": "prueba@ugto.mx",
+        "password": "123456",
+        "direccion": "Calle X 123",
+        "es_admin": false
     }
 ]
